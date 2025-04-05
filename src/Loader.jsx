@@ -1,5 +1,5 @@
 import React from "react";
-import "./components/templates/LoaderKiCSS.css"; // Import SCSS file
+import "./components/templates/LoaderkiCSS.css"; // Import SCSS file
 
 const Loader = () => {
   return (
